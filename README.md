@@ -4,7 +4,7 @@
 "Beyond the Label" is a data-driven initiative aimed at enhancing consumer awareness and promoting sustainable choices in the fashion industry. This project analyzes, predicts, and recommends sustainable fashion brands, leveraging comprehensive datasets to foster transparency and ethical consumerism.
 
 ## Data Sources
-- **Fashion Transparency Index**: An extensive dataset covering 250 brands with detailed indicators on sustainability practices.
+- **Fashion Transparency Index**: An extensive dataset covering 250 brands with detailed indicators on sustainability practices. [Wikirate-link](https://wikirate.org/Fashion_Transparency_Index_2023_full_dataset)
 - **GoodOnYou Index**: Consumer-centric ratings evaluating the sustainability of fashion brands.
   [Web-Scraping](goodonyou/web_scrape_goodonyou.ipynb)
   [Exploratory Data Analysis](goodonyou/goodonyou_eda.ipynb)
