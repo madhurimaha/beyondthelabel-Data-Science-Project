@@ -6,6 +6,8 @@
 ## Data Sources
 - **Fashion Transparency Index**: An extensive dataset covering 250 brands with detailed indicators on sustainability practices.
 - **GoodOnYou Index**: Consumer-centric ratings evaluating the sustainability of fashion brands.
+  [Web-Scraping](goodonyou/web_scrape_goodonyou.ipynb)
+  [Exploratory Data Analysis](goodonyou/goodonyou_eda.ipynb)
 
 ## Features
 - Brand and Country Information
@@ -17,5 +19,5 @@
 2. **Recommendation System**: A system that matches user preferences with sustainable brand scores.
     2.1. Preprocessing - [Task2-Pre](Task2/Recommendation_Pre_processing.ipynb)
     2.2. Recommendation System - [Task2](Task2/Final_Recommendation.ipynb)
-4. **Time Series Analysis**: Predictive modeling to forecast future sustainability indices of brands.[Task3](Task2/Task3_Time_Series.ipynb)
+4. **Time Series Analysis**: Predictive modeling to forecast future sustainability indices of brands.[Task3](Task3/Task3_Time_Series.ipynb)
 
