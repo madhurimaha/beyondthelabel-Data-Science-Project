@@ -13,7 +13,7 @@
 - Binary, Ordinal, and Numerical Data Types
 
 ## Project Components
-1. **Correlation Analysis**: Utilizing Spearman Rank and Regression Analysis to explore the relationship between brand transparency and sustainability.
+1. **Correlation Analysis**: Utilizing Spearman Rank and Regression Analysis to explore the relationship between brand transparency and sustainability.[Task1](Task1/Task1_Correlation.ipynp)
 2. **Recommendation System**: A system that matches user preferences with sustainable brand scores.
 3. **Time Series Analysis**: Predictive modeling to forecast future sustainability indices of brands.
 
